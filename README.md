@@ -1,9 +1,23 @@
-## Hey there! I'm using GitHub 👋
+## Hey there! I'm using GitHub 👋  ![](https://komarev.com/ghpvc/?username=LuGuDu&color=blue)
 
-### i'm Lucas, a computer science student from Ciudad Real, Spain!
+#### I'm Lucas, a computer science student from Ciudad Real, Spain!
+
 &nbsp;
-![](https://komarev.com/ghpvc/?username=LuGuDu&color=blue)
+
+## Contact
+
 &nbsp;
+<a href="">
+   ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+</a>
+
+<p> 📫 Correos electrónicos:
+   <ul>
+      <li>lucasgutierrezd@hotmail.com</li>
+      <li>lucas.gutierrez@alu.uclm.es</li>   
+   </ul>
+</p>
+
 &nbsp;
 
 ## Using tools
@@ -24,27 +38,10 @@
    </a>                     
 </p>
 
-
-
-<!--
-**LuGuDu/LuGuDu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
--->
-
 ## GitStats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuGuDu&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuGuDu&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuGuDu&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuGuDu&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
