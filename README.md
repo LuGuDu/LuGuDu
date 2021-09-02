@@ -4,7 +4,7 @@
 
 &nbsp;
 
-## Contact
+## Contact ☎️
 
 &nbsp;
 <a href="https://www.linkedin.com/in/lucasgutierrezd">
@@ -20,7 +20,7 @@
 
 &nbsp;
 
-## Using tools
+## Using tools 🧰
 
 <p align="center">
    <a href="https://www.eclipse.org/">
@@ -38,9 +38,11 @@
    </a>                     
 </p>
 
-## GitStats
+## GitTrophies 🏆
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=LuGuDu&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
+## GitStats 📊
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuGuDu&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuGuDu&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
