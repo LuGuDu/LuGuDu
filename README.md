@@ -14,7 +14,8 @@
 <p> 📫 Correos electrónicos:
    <ul>
       <li>lucasgutierrezd@hotmail.com</li>
-      <li>lucas.gutierrez@alu.uclm.es</li>   
+      <li>lucas.gutierrez@alu.uclm.es</li>
+      <li>lucasgutierrez@correo.ugr.es</li>
    </ul>
 </p>
 
