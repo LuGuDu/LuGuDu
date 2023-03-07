@@ -1,6 +1,6 @@
 ## Hey there! I'm using GitHub 👋  ![](https://komarev.com/ghpvc/?username=LuGuDu&color=blue)
 
-#### I'm Lucas, a computer science student from Ciudad Real, Spain!
+#### I'm Lucas, a computer science student from Ciudad Real, Spain! Actually, I'm studying at the University of Granada and working for MetaEnlace.
 
 &nbsp;
 
