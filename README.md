@@ -35,8 +35,20 @@
       <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width="50" title="MySQL">
    </a>
      <a href="https://github.com/">
-      <img src="https://image.flaticon.com/icons/png/512/733/733553.png" width="50" title="GitHub">
-   </a>                     
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" title="GitHub">
+   </a>
+   </a>
+     <a href="https://www.python.org/">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" title="Python3">
+   </a>
+      </a>
+     <a href="https://www.spring.io/">
+      <img src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png" width="50" title="Spring">
+   </a>
+      </a>
+     <a href="https://www.docker.com/">
+      <img src="docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="50" title="Docker">
+   </a>   
 </p>
 
 ## GitStats 📊
