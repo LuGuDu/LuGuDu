@@ -47,7 +47,7 @@
    </a>
       </a>
      <a href="https://www.docker.com/">
-      <img src="docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="50" title="Docker">
+      <img src="https://docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="50" title="Docker">
    </a>   
 </p>
 
